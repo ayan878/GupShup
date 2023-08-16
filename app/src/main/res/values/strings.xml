@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GupShup</string>
+    <string name="didn_t_receive_the_otp" />
+    <string name="resend_otp" />
+    <string name="gupshup_will_send_an_sms_message_to_verify_your_phone_number">GupShup will send an SMS message to verify your phone number</string>
+    <string name="type_your_phone_number">Type your phone number</string>
+    <string name="get_otp">Get OTP</string>
+    <string name="inputMobile">input Mobile</string>
+    <string name="phonenumber">Phone number</string>
+    <string name="please_enter_the_otp_sent_to_you">Please Enter the OTP sent to you</string>
+
+</resources>
